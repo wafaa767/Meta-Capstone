@@ -8,7 +8,7 @@ Please note: the only functionality working on this website besides the design i
 <h3>Screenshots</h3><br/>
 <p>Here are some screeenshots of the application showcasing the Booking functionality and menu visibility.</p>
 <img src="https://github.com/wafaa767/Meta-Capstone/blob/main/full%20screen_.png" width=550>
-<img src="https://github.com/wafaa767/Meta-Capstone/blob/main/reservation.png" alt="picture">
-<img src="https://github.com/wafaa767/Meta-Capstone/blob/main/confirm.png" alt="picture">
-<img src="https://github.com/wafaa767/Meta-Capstone/blob/main/when%20we%20minimaze%20it.png" alt="picture">
-<img src="https://github.com/wafaa767/Meta-Capstone/blob/main/the%20menu.png" alt="picture">
+<img src="https://github.com/wafaa767/Meta-Capstone/blob/main/reservation.png" width=550>
+<img src="https://github.com/wafaa767/Meta-Capstone/blob/main/confirm.png" width=550>
+<img src="https://github.com/wafaa767/Meta-Capstone/blob/main/when%20we%20minimaze%20it.png" width=550>
+<img src="https://github.com/wafaa767/Meta-Capstone/blob/main/the%20menu.png" width=550>
